@@ -53,6 +53,9 @@ python app.py
 - Audio output is stored as temporary MP3 via `pyttsx3`
 
 ---
+## ScreenShot
+![image](https://github.com/thekhushalsingh/Voice-Cloning-Emotion-Response-Bot-AI/blob/main/screenshot.png)
+
 
 ## Credits 🙏
 
